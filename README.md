@@ -6,7 +6,7 @@
 
 [![Welcome Banner](https://img.shields.io/badge/👋_Hi_There!-Mohammmad_Abdelmagid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shokr-82528a330/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Br6KUMOWkSTSbqQRd77nuAQ%3D%3D)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Mohammed-Abdelmagid.Mohammed-Abdelmagid&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Mohammed-Abdelmagid.Mohammed-Abdelmagid&color=08cf60)
 
 
 <h3>🚀 Frontend Developer</h3>
@@ -21,7 +21,7 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 [![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdbdhdhd@icloud.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201113323378)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Abdelmagid&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Abdelmagid&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
