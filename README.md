@@ -43,8 +43,6 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical&hide_border=false" width="45%" />
 
   <!-- GitHub streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Abdelmagid&theme=radical&hide_border=false" width="45%" />
