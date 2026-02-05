@@ -2,7 +2,6 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-
 [![Welcome Banner](https://img.shields.io/badge/👋_Hi_There!-Mohammmad_Abdelmagid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shokr-82528a330/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Br6KUMOWkSTSbqQRd77nuAQ%3D%3D)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Mohammed-Abdelmagid.Mohammed-Abdelmagid&color=08cf60)
