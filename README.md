@@ -22,7 +22,8 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201113323378)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Abdelmagid&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Abdelmagid&style=flat&color=blue&label=PROFILE+VIEWS) (previously 11+)
+
 
 </div>
 
