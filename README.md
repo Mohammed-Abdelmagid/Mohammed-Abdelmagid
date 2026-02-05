@@ -3,9 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=HELLO+CODERS;I'm+Mohammed+Abdelmagid" />
 </p>
 
-[![Welcome Banner](https://img.shields.io/badge/👋_Hi_There!-Mohammmad_Abdelmagid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shokr-82528a330/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Br6KUMOWkSTSbqQRd77nuAQ%3D%3D)
+<p align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Mohammed-Abdelmagid.Mohammed-Abdelmagid&color=08cf60" width="150px">
+</p>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Mohammed-Abdelmagid.Mohammed-Abdelmagid&color=08cf60)
 
 
 <h3>🚀 Frontend Developer</h3>
