@@ -41,12 +41,11 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabdelmagid&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdelmagid&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabdelmagid&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdelmagid&theme=radical" width="48%" />
 </p>
+
 
 ---
 
