@@ -15,6 +15,8 @@
 Passionate Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.  
 Always eager to learn new technologies and turn ideas into real-world web experiences.
 </p>
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammed-abdelmagid.github.io/My-Portfolio/)
 
 
