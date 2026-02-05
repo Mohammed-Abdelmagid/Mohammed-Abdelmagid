@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-<h1>👋 Mohammmad Abdelmagid</h1>
+<h1>👋 Mohammad Abdelmagid</h1>
 
 <h3>🚀 Frontend Developer</h3>
 
@@ -11,7 +11,7 @@ Passionate Frontend Developer focused on building clean, responsive, and user-fr
 Always eager to learn new technologies and turn ideas into real-world web experiences.
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mohammedabdelmagid)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Mohammed-ِِِAbdelmagid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-shokr-82528a330)
 [![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdbdhdhd@icloud.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201113323378)
@@ -44,15 +44,15 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 
 <p align="center">
   <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabdelmagid&show_icons=true&theme=radical&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-ِِِAbdelmagid&show_icons=true&theme=radical&hide_border=false" width="45%" />
 
   <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdelmagid&theme=radical&hide_border=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-ِِِAbdelmagid&theme=radical&hide_border=false" width="45%" />
 </p>
 
 <!-- Optional: Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabdelmagid&layout=compact&theme=radical&hide_border=false" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-ِِِAbdelmagid&layout=compact&theme=radical&hide_border=false" width="60%" />
 </p>
 
 ---
