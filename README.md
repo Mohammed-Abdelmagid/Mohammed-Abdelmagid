@@ -15,7 +15,7 @@
 Passionate Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.  
 Always eager to learn new technologies and turn ideas into real-world web experiences.
 </p>
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammed-abdelmagid.github.io/My-Portfolio/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Mohammed-Abdelmagid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-shokr-82528a330)
 [![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gdbdhdhd@icloud.com)
