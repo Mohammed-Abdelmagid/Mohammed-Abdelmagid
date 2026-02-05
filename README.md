@@ -48,11 +48,6 @@ Always eager to learn new technologies and turn ideas into real-world web experi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Abdelmagid&theme=radical&hide_border=false" width="45%" />
 </p>
 
-<!-- Optional: Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdelmagid&layout=compact&theme=radical&hide_border=false" width="60%" />
-</p>
-
 ---
 
 ## 📬 Contact Me
