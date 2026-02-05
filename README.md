@@ -40,12 +40,20 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabdelmagid&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdelmagid&theme=radical" width="48%" />
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabdelmagid&show_icons=true&theme=radical&hide_border=false" width="45%" />
+
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdelmagid&theme=radical&hide_border=false" width="45%" />
 </p>
 
+<!-- Optional: Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabdelmagid&layout=compact&theme=radical&hide_border=false" width="60%" />
+</p>
 
 ---
 
