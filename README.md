@@ -55,12 +55,9 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical" width="48%"/>
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical" width="50%"/>
 </p>
 
 ---
