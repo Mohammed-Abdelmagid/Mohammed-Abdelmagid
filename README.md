@@ -53,22 +53,14 @@ I enjoy turning ideas into real-world products using modern web technologies.
 ---
 
 
-## 📊 GitHub Overview
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Followers / Stars / Repo Size -->
-  <img src="https://img.shields.io/github/followers/Mohammed-Abdelmagid?style=social" />
-  <img src="https://img.shields.io/github/stars/Mohammed-Abdelmagid?style=social" />
-  <img src="https://img.shields.io/github/repo-size/Mohammed-Abdelmagid/My-Portfolio?style=flat-square" />
-</p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdelmagid&layout=compact&theme=radical&hide=java" />
-</p>
-
-<p align="center">
-  You can check my contributions calendar on my GitHub profile above!
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical&cache_seconds=1800" width="48%"/>
 </p>
 
 ---
