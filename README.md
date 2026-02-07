@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=90&lines=HELLO+CODERS;I'm+Mohammed+Abdelmagid" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=90&lines=HELLO+CODERS;I'm+Mohammed+Abdelmagid" />
 
 <br/>
 
 <!-- Visitors -->
-<img src="https://vbr.nathanchung.dev/badge?page_id=Mohammed-Abdelmagid.Mohammed-Abdelmagid&color=08cf60" />
+<img src="https://komarev.com/ghpvc/?username=Mohammed-Abdelmagid&style=flat&color=0abde3" />
 
 <h3>🚀 Frontend Developer</h3>
 
@@ -22,18 +22,18 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <br/><br/>
 
-<!-- Social Links -->
+<!-- Contact Buttons (Safe) -->
 <a href="https://github.com/Mohammed-Abdelmagid">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammed-shokr-82528a330">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-<a href="mailto:gdbdhdhd@icloud.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://wa.me/201113323378">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:gdbdhdhd@icloud.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -43,14 +43,12 @@ I enjoy turning ideas into real-world products using modern web technologies.
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" padding="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -58,11 +56,11 @@ I enjoy turning ideas into real-world products using modern web technologies.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical"/>
 </p>
 
 ---
@@ -73,6 +71,6 @@ I enjoy turning ideas into real-world products using modern web technologies.
 Open to frontend roles, freelance projects, and collaborations.  
 Feel free to reach out — I’m always happy to connect 👋
 </p>
->
+
 
 
