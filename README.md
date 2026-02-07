@@ -57,10 +57,9 @@ Always eager to learn new technologies and turn ideas into real-world web experi
 ## 📈 GitHub Stats
 
 <p align="center">
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Abdelmagid&theme=radical&hide_border=false" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical" width="50%" />
 </p>
+
 
 ---
 
