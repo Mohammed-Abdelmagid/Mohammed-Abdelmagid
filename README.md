@@ -61,6 +61,8 @@ I enjoy turning ideas into real-world products using modern web technologies.
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical&cache_seconds=1800" width="48%"/>
 </p>
+<img src="https://img.shields.io/github/followers/Mohammed-Abdelmagid?style=social" />
+<img src="https://img.shields.io/github/stars/Mohammed-Abdelmagid?style=social" />
 
 ---
 
