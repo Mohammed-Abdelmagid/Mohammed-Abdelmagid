@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Typing Header -->
@@ -55,9 +54,12 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical" width="50%"/>
+  <!-- GitHub Stats محدثة لتتجدد كل 30 دقيقة -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical&cache_seconds=1800" width="48%"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical&cache_seconds=1800" width="48%"/>
 </p>
 
 ---
@@ -66,5 +68,6 @@ I enjoy turning ideas into real-world products using modern web technologies.
 
 <p align="center">
 Open to frontend roles, freelance projects, and collaborations.  
-Feel free to reach out — I’m always happy to connect 👋
+Feel free to reach out — I’m always happy to connect
 </p>
+
