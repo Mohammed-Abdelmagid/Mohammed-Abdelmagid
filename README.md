@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 <!-- Typing Header -->
@@ -20,21 +23,24 @@ I enjoy turning ideas into real-world products using modern web technologies.
   <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br/><br/><br/>
+<!-- مسافة حقيقية -->
+<br/><br/><br/><br/>
 
-<!-- Contact Buttons -->
-<a href="https://github.com/Mohammed-Abdelmagid">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/mohammed-shokr-82528a330">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://wa.me/201113323378">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:gdbdhdhd@icloud.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- Social Icons (Style like Tech Stack) -->
+<p align="center">
+  <a href="https://github.com/Mohammed-Abdelmagid">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-shokr-82528a330">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/201113323378">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gdbdhdhd@icloud.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
+</p>
 
 </div>
 
@@ -66,5 +72,3 @@ I enjoy turning ideas into real-world products using modern web technologies.
 Open to frontend roles, freelance projects, and collaborations.  
 Feel free to reach out — I’m always happy to connect 👋
 </p>
-
-
