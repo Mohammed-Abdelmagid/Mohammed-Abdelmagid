@@ -15,14 +15,14 @@ Frontend Developer focused on building clean, responsive, and user-friendly web 
 I enjoy turning ideas into real-world products using modern web technologies.
 </p>
 
-<!-- Portfolio First -->
+<!-- Portfolio -->
 <a href="https://mohammed-abdelmagid.github.io/My-Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
-<!-- Contact Buttons (Safe) -->
+<!-- Contact Buttons -->
 <a href="https://github.com/Mohammed-Abdelmagid">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
@@ -43,12 +43,7 @@ I enjoy turning ideas into real-world products using modern web technologies.
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,git,github,vscode&perline=5" />
 </p>
 
 ---
@@ -56,11 +51,11 @@ I enjoy turning ideas into real-world products using modern web technologies.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelmagid&show_icons=true&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelmagid&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -71,6 +66,5 @@ I enjoy turning ideas into real-world products using modern web technologies.
 Open to frontend roles, freelance projects, and collaborations.  
 Feel free to reach out — I’m always happy to connect 👋
 </p>
-
 
 
